@@ -12,9 +12,10 @@
 
 ### Download and Install Kafka
 https://kafka.apache.org/downloads
-Windows : https://www.youtube.com/watch?v=EUzH9khPYgs
 
-###Start Kafka
+https://www.youtube.com/watch?v=EUzH9khPYgs
+
+### Run Kafka
 .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
 
 .\bin\windows\kafka-server-start.bat .\config\server.properties
@@ -30,6 +31,7 @@ Once application is up, api documentation can be seen at `http://localhost:8085/
 
 #### [POST] /products/ (createProduct.)
 
+```
 Body: 
 {
   "barcode": "A123B456C",
@@ -39,4 +41,5 @@ Body:
   "stock": 500,
   "title": "Mavi Gomlek"
 }
+```
 

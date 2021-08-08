@@ -7,10 +7,10 @@
 * Kafka 2.8.0
 
 ## Running the Application
-####Build the app
+#### Build the app
 `mvn clean install`
 
-###Download and Install Kafka
+### Download and Install Kafka
 https://kafka.apache.org/downloads
 Windows : https://www.youtube.com/watch?v=EUzH9khPYgs
 

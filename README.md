@@ -1,4 +1,5 @@
 # Supplier Product Management
+This microservice produce AddedProductBySupplier and UpdatedProductBySupplier topic
 
 ## Tech Stack
 * Java JDK 11

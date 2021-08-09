@@ -6,6 +6,7 @@ This microservice produce AddedProductBySupplier and UpdatedProductBySupplier to
 * Maven 3.8.1
 * Spring Boot v2.9.2
 * Kafka 2.8.0
+* Swagger
 
 ## Running the Application
 #### Build the app
